@@ -11,3 +11,20 @@ body {
     background-color: red;
     position: absolute;
   }
+
+
+  footer {
+    background-color: aquamarine; /* Color de fondo del pie de página */
+    padding: 10px; /* Espaciado interior para un mejor aspecto */
+    text-align: right; /* Centrar el texto dentro del pie de página */
+    position: fixed; /* Fijar el pie de página en la parte inferior de la ventana */
+    bottom: 0; /* Alinear el pie de página en la parte inferior de la ventana */
+    width: 100%; /* Asegurarse de que ocupe todo el ancho disponible */
+    font-size: 0.8rem;
+    margin-right: 20px;
+  }
+  
+
+  footer p {
+    margin-right: 20px;
+  }
